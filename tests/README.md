@@ -2,5 +2,6 @@ As a consequence, be careful not to push any c file containing a main function i
 Our main files will include your main header file (main.h): #include main.h
 You might want to look at the gcc flag -Wno-format when testing with your _printf and the standard printf
 
-Author: Nwabueze Franklin https://github.com/NwabuezeFranklin 
+Author:
+        Nwabueze Franklin https://github.com/NwabuezeFranklin 
         Ifeoluwa Atansieye https://github.com/Asiwajuife
