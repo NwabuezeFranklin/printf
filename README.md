@@ -58,3 +58,6 @@ R : printf the rot13'ed string
 16. *
 All the above options work well together.
 when all work well, then printf has been successfully created 
+
+Authors: Nwabueze Franklin https://github.com/NwabuezeFranklin 
+         Ifeoluwa Atansieye https://github.com/Asiwajuife
