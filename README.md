@@ -51,9 +51,10 @@ Handle the 0 flag character for non-custom conversion specifiers.
 Handle the - flag character for non-custom conversion specifiers.
 14. Print is the sharpest and the strongest weapon of our party
 Handle the following custom conversion specifier:
-r : prints the reversed string
+r : printf the reversed string
 15. The flood of print has turned reading into a process of gulping rather than savoring
 Handle the following custom conversion specifier:
-R : prints the rot13'ed string
+R : printf the rot13'ed string
 16. *
 All the above options work well together.
+when all work well, then printf has been successfully created 
